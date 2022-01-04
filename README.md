@@ -1,5 +1,5 @@
 # PortfolioAlpha
-Preview:
+<h1>Preview:</h1>
 <img src="assets/images/Preview1.png">
 <img src="assets/images/Preview2.png">
 
